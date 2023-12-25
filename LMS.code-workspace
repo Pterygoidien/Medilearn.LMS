@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "Presentation/LMS.Api"
+    },
+    {
+      "path": "Core/LMS.Application"
+    },
+    {
+      "path": "Core/LMS.Domain"
+    },
+    {
+      "path": "Infrastructure/LMS.Infrastructure"
+    },
+    {
+      "path": "Infrastructure/LMS.Persistence"
+    },
+    {
+      "path": "Shared/LMS.Shared"
+    }
+  ]
+}
